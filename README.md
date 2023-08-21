@@ -1,10 +1,10 @@
 # Hour-Announcement-Using-Raspberry-Pi
 Python3 code to announce hour with intro in Morse code.
 
-Put your own intro.wav and generate 0 to 9 morse .wav and put on morse folder.
-This python code play .wave files using play from sox (apt install sox).
+1. Put your morse.py, intro.wav at the same folder and move all 0.wav to 9.wav to morse sub folder.
+2. run python3 morse.py
 
-
+This python code play .wav files using play from sox (apt install sox).
 
 mourse.py
 intro.wave------------morse folder--------0.wav to 9.wav
