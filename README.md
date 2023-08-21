@@ -8,7 +8,7 @@ Python3 code to announce on every hour with intro and 2 digits hour in Morse cod
 
 1. Put your morse.py, intro.wav at the same folder and move all 0.wav to 9.wav to morse sub folder.
 2. chmod a+x morse.py and run python3 morse.py
-3. To make it auto run every boots just add @reboot path/to/morse.py to your crontab.
+3. To make it auto run every boots just add @reboot python3 path/to/morse.py to your crontab.
    
 This python code play .wav files using play from sox (apt install sox).
 
