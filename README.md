@@ -1,5 +1,4 @@
-# Hour-Announcement-Using-Raspberry-Pi
-Python3 code to announce hour with intro in Morse code.
+Python3 code to announce on every hour with intro and 2 digits hour in Morse code.
 
 1. Put your morse.py, intro.wav at the same folder and move all 0.wav to 9.wav to morse sub folder.
 2. Run python3 morse.py
