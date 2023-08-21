@@ -1,4 +1,8 @@
-https://github.com/9M2PJU/Morse-code-Hour-Announcement-Using-Python3/assets/991353/26295a3b-8fbe-473b-8d20-003d2870dfb2
+
+
+
+https://github.com/9M2PJU/Morse-code-Hour-Announcement-Using-Python3/assets/991353/4ed60f98-4159-4d10-a928-50d0a4240c60
+
 
 Python3 code to announce on every hour with intro and 2 digits hour in Morse code.
 
