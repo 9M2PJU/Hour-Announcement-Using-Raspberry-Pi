@@ -21,6 +21,7 @@ morse folder (contains 0.wav to 9.wav)
 The Morse code will be played at a speed of 20 Words Per Minute (WPM) and a pitch of 600 Hz.
 
 morse.py is 12 hour format.
+
 morse24.py is 24 hour format.
 
 73,
