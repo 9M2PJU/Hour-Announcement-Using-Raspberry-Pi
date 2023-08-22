@@ -16,7 +16,8 @@ mourse.py
 
 intro.wave------------morse folder--------0.wav to 9.wav
 
-Morse speed 20 WPM and 600 Hz pitch
+Morse speed in 20 WPM and 600 Hz pitch.
+
 
 
 
