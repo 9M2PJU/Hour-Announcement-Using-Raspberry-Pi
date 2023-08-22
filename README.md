@@ -3,25 +3,22 @@
 
 https://github.com/9M2PJU/Morse-code-Hour-Announcement-Using-Python3/assets/991353/4ed60f98-4159-4d10-a928-50d0a4240c60
 
+Python3 code for announcing the time every hour, featuring an introduction and the two-digit hour represented in Morse code:
 
-Python3 code to announce on every hour with intro and 2 digits hour in Morse code.
+Place the following files in the same directory: morse.py, intro.wav, and move files 0.wav to 9.wav into a "morse" subfolder.
 
-1. Put your morse.py, intro.wav at the same folder and move all 0.wav to 9.wav to morse sub folder.
-2. chmod a+x morse.py and run python3 morse.py
-3. To make it auto run every boots just add @reboot python3 path/to/morse.py to your crontab.
-   
-This python code play .wav files using play from sox (apt install sox).
+Make sure to give execution permissions by running: chmod a+x morse.py
+Run the script using: python3 morse.py
+For automatic execution on boot, add the line @reboot python3 /path/to/morse.py to your crontab.
 
-mourse.py
+This Python script utilizes the 'play' command from SoX (install it with apt install sox) to play .wav files.
 
-intro.wave------------morse folder--------0.wav to 9.wav
+Folder structure:
 
-Morse speed in 20 WPM and 600 Hz pitch.
-
-
-
-
+morse.py
+intro.wav
+morse folder (contains 0.wav to 9.wav)
+The Morse code will be played at a speed of 20 Words Per Minute (WPM) and a pitch of 600 Hz.
 
 73,
-
 9M2PJU
